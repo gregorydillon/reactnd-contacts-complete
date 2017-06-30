@@ -7,7 +7,12 @@ Most of the commits in this repository correspond to videos in the program.
 ## Project Setup
 
 * clone the Project - `git clone https://github.com/udacity/reactnd-contacts-complete.git`
+* update node to >6 or won't work - `nvm install stable`
+* set default to use node stable `nvm use stable`
+*   not sure if that is necessary
 * install the dependencies - `npm install`
+*
+* start  with - `npm start`
 
 ## Contributing
 
